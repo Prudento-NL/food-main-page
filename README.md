@@ -1,2 +1,2 @@
-# recepten-main-page
-Website met recepten.
+# food-main-page
+Website over eten en recepten.
